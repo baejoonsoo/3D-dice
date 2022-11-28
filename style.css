@@ -16,7 +16,7 @@ body {
 .dice {
   position: absolute;
   width: 100%;
-  height: 100%;
+  height: 0;
   transform-style: preserve-3d;
   transform: rotateY(10deg) rotateX(-10deg);
   animation: rotate 2s infinite forwards linear;
