@@ -50,8 +50,6 @@ span {
   width: 150px;
   height: 150px;
   top: -75px;
-
-  background-size: cover;
   display: flex;
 }
 
